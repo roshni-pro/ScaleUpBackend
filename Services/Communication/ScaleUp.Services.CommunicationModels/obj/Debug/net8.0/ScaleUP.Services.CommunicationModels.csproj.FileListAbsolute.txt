@@ -1,0 +1,15 @@
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\bin\Debug\net8.0\ScaleUP.Services.CommunicationModels.deps.json
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\bin\Debug\net8.0\ScaleUP.Services.CommunicationModels.dll
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\bin\Debug\net8.0\ScaleUP.Services.CommunicationModels.pdb
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.dll
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.pdb
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ScaleUP.Services.CommunicationModels.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ScaleUP.Services.CommunicationModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ScaleUP.Services.CommunicationModels.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ScaleUP.Services.CommunicationModels.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ScaleUP.Services.CommunicationModels.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ScaleUP.Services.CommunicationModels.csproj.CopyComplete
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ScaleUP.Services.CommunicationModels.dll
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\refint\ScaleUP.Services.CommunicationModels.dll
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ScaleUP.Services.CommunicationModels.pdb
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationModels\obj\Debug\net8.0\ref\ScaleUP.Services.CommunicationModels.dll

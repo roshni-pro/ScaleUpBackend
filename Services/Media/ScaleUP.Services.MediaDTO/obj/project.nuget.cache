@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ft8Ja2K/jOF7j/E28INkhfCQ04uYhuts0r2BExJ2Ck2LjVdSdYDvd4XiUIVMkg/rkiWDeDF+QmKc7rqO/z2XQ==",
+  "success": true,
+  "projectFilePath": "C:\\ScaleupLatest\\trunk\\Services\\Media\\ScaleUP.Services.MediaDTO\\ScaleUP.Services.MediaDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\SK\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\SK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\SK\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\SK\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

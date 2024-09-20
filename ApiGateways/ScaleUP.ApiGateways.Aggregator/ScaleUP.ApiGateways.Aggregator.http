@@ -1,0 +1,6 @@
+@ScaleUP.ApiGateways.Aggregator_HostAddress = http://localhost:5030
+
+GET {{ScaleUP.ApiGateways.Aggregator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,365 @@
+{
+  //"GlobalConfiguration": {
+  //  "BaseUrl": "https://localhost:7000"
+  //},
+  "Routes": [
+    /* {
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 32776
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "IdentityApiKey",
+      //  "AllowedScopes": []
+      //}
+    }*/
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.companyapi",
+          "Port": 7002
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/company/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "company"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.productapi",
+          "Port": 7001
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/product/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "product"
+      //,"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.locationapi",
+          "Port": 7003
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/location/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "location"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.apigateways.aggregator",
+          "Port": 7004
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/aggregator/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "aggregator"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.leadapi",
+          "Port": 7005
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/lead/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "lead"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.kycapi",
+          "Port": 7006
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/kyc/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "kyc"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.communicationapi",
+          "Port": 7007
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/communication/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "communication"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.identityapi",
+          "Port": 7008
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/identity/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "identity"
+      //,"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.mediaapi",
+          "Port": 7009
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/media/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "media"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.nbfcapi",
+          "Port": 7010
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/nbfc/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "nbfc"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.loanaccountapi",
+          "Port": 7011
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/loanaccount/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "loan"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "scaleup.services.ledgerapi",
+          "Port": 7012
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/ledger/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "ledger"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    }
+  ],
+
+  "SwaggerEndPoints": [
+    {
+      "Key": "company",
+      "Config": [
+        {
+          "Name": "company API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.companyapi:7002/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "product",
+      "Config": [
+        {
+          "Name": "product API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.productapi:7001/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "location",
+      "Config": [
+        {
+          "Name": "location API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.locationapi:7003/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "aggregator",
+      "Config": [
+        {
+          "Name": "aggregator API",
+          "Version": "v1",
+          "Url": "https://scaleup.apigateways.aggregator:7004/swagger/v1/swagger.json"
+
+        }
+      ]
+    },
+    {
+      "Key": "lead",
+      "Config": [
+        {
+          "Name": "lead API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.leadapi:7005/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "kyc",
+      "Config": [
+        {
+          "Name": "kyc API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.kycapi:7006/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "communication",
+      "Config": [
+        {
+          "Name": "communication API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.communicationapi:7007/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "identity",
+      "Config": [
+        {
+          "Name": "identity API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.identityapi:7008/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "media",
+      "Config": [
+        {
+          "Name": "media API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.mediaapi:7009/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "nbfc",
+      "Config": [
+        {
+          "Name": "nbfc API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.nbfcapi:7010/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "loan",
+      "Config": [
+        {
+          "Name": "loan API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.loanaccountapi:7011/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "ledger",
+      "Config": [
+        {
+          "Name": "ledger API",
+          "Version": "v1",
+          "Url": "https://scaleup.services.ledgerapi:7012/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ]
+}

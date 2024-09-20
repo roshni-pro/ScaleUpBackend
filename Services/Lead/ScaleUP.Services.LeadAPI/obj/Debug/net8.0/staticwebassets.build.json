@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "VcwX2SdinKy5rU6IhiSybBWjcdXOxhnsw1Q+lkvOhQ0=",
+  "Source": "ScaleUP.Services.LeadAPI",
+  "BasePath": "_content/ScaleUP.Services.LeadAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ScaleUP.Services.LeadAPI\\wwwroot",
+      "Source": "ScaleUP.Services.LeadAPI",
+      "ContentRoot": "C:\\ScaleupLatest\\trunk\\Services\\Lead\\ScaleUP.Services.LeadAPI\\wwwroot\\",
+      "BasePath": "_content/ScaleUP.Services.LeadAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

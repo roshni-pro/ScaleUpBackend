@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "apqjtxkuyG/dDbPjYGfLsLvnlRDopGZUr41nKZ+AcZcw9VQXyqzt3cQjP7OieiTkmRLRLdDaB/N4Zf7R1qRZGg==",
+  "success": true,
+  "projectFilePath": "C:\\ScaleupLatest\\trunk\\Services\\Identity\\ScaleUP.Services.IdentityDTO\\ScaleUP.Services.IdentityDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

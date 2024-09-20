@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pYVKDCsIRexXF17fnPBrxmiGV5MF/Z9zoeNiidPaAmQ=",
+  "Source": "ScaleUP.Services.LedgerAPI",
+  "BasePath": "_content/ScaleUP.Services.LedgerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@ScaleUP.Services.KYCAPI_HostAddress = http://localhost:5167
+
+GET {{ScaleUP.Services.KYCAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

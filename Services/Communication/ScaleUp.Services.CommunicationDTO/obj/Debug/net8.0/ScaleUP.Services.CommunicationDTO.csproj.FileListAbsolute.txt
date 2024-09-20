@@ -1,0 +1,11 @@
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\bin\Debug\net8.0\ScaleUP.Services.CommunicationDTO.deps.json
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\bin\Debug\net8.0\ScaleUP.Services.CommunicationDTO.dll
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\bin\Debug\net8.0\ScaleUP.Services.CommunicationDTO.pdb
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\obj\Debug\net8.0\ScaleUP.Services.CommunicationDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\obj\Debug\net8.0\ScaleUP.Services.CommunicationDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\obj\Debug\net8.0\ScaleUP.Services.CommunicationDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\obj\Debug\net8.0\ScaleUP.Services.CommunicationDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\obj\Debug\net8.0\ScaleUP.Services.CommunicationDTO.dll
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\obj\Debug\net8.0\refint\ScaleUP.Services.CommunicationDTO.dll
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\obj\Debug\net8.0\ScaleUP.Services.CommunicationDTO.pdb
+C:\ScaleupLatest\trunk\Services\Communication\ScaleUp.Services.CommunicationDTO\obj\Debug\net8.0\ref\ScaleUP.Services.CommunicationDTO.dll

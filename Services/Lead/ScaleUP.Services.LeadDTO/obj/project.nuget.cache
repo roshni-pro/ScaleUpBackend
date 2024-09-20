@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ect+BugnC8M+GJDtRnWHZGQxwWikQPky1SxGUdSBhPhuF5SOiGBME9YJSbXItBJ9qk1qajMNezSRQc1XMiojAQ==",
+  "success": true,
+  "projectFilePath": "C:\\ScaleupLatest\\trunk\\Services\\Lead\\ScaleUP.Services.LeadDTO\\ScaleUP.Services.LeadDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\SK\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

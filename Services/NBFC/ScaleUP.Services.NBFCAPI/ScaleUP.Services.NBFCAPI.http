@@ -1,0 +1,6 @@
+@ScaleUP.Services.NBFCAPI_HostAddress = http://localhost:5094
+
+GET {{ScaleUP.Services.NBFCAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

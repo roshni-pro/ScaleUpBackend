@@ -1,0 +1,15 @@
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\bin\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.deps.json
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\bin\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.dll
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\bin\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.pdb
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.dll
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.pdb
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.csproj.CopyComplete
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.dll
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\refint\ScaleUP.BuildingBlocks.GRPC.Contracts.dll
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ScaleUP.BuildingBlocks.GRPC.Contracts.pdb
+C:\ScaleupLatest\trunk\BuildingBlocks\GRPC\ScaleUP.BuildingBlocks.GRPC.Contracts\obj\Debug\net8.0\ref\ScaleUP.BuildingBlocks.GRPC.Contracts.dll

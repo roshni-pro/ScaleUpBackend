@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj": {}
+  },
+  "projects": {
+    "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj",
+        "projectName": "ScaleUP.BuildingBlocks.Logging",
+        "projectPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj",
+        "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
+        "outputPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.59.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Nito.AsyncEx.Context": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Extensions": {
+              "target": "Package",
+              "version": "[1.0.0-beta.4, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.6.0-rc.1, )"
+            },
+            "OpenTelemetry.Instrumentation.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.0-beta.8, )"
+            },
+            "OpenTelemetry.Instrumentation.GrpcCore": {
+              "target": "Package",
+              "version": "[1.0.0-beta.5, )"
+            },
+            "OpenTelemetry.Instrumentation.GrpcNetClient": {
+              "target": "Package",
+              "version": "[1.6.0-beta.3, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.6.0-rc.1, )"
+            },
+            "OpenTelemetry.Instrumentation.MassTransit": {
+              "target": "Package",
+              "version": "[1.0.0-beta.3, )"
+            },
+            "OpenTelemetry.Instrumentation.SqlClient": {
+              "target": "Package",
+              "version": "[1.6.0-beta.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Serilog.Logfmt": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Serilog.Sinks.Grafana.Loki": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Serilog.Sinks.OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "serilog.enrichers.ExceptionData": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "serilog.enrichers.GlobalLogContext": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "serilog.enrichers.correlationId": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

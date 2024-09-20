@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1LVOKAWfqRdQn+sQnzGK0gavgY/DfP9dmdLCrdGJMEE=",
+  "Source": "ScaleUP.Services.LoanAccountAPI",
+  "BasePath": "_content/ScaleUP.Services.LoanAccountAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

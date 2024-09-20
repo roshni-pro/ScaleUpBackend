@@ -1,0 +1,15 @@
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\bin\Debug\net8.0\ScaleUP.Services.LocationModels.deps.json
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\bin\Debug\net8.0\ScaleUP.Services.LocationModels.dll
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\bin\Debug\net8.0\ScaleUP.Services.LocationModels.pdb
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.dll
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.pdb
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ScaleUP.Services.LocationModels.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ScaleUP.Services.LocationModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ScaleUP.Services.LocationModels.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ScaleUP.Services.LocationModels.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ScaleUP.Services.LocationModels.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ScaleUP.Services.LocationModels.csproj.CopyComplete
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ScaleUP.Services.LocationModels.dll
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\refint\ScaleUP.Services.LocationModels.dll
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ScaleUP.Services.LocationModels.pdb
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationModels\obj\Debug\net8.0\ref\ScaleUP.Services.LocationModels.dll

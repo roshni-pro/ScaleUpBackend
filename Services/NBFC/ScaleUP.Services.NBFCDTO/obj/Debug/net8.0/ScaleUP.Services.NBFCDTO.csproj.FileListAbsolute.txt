@@ -1,0 +1,11 @@
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\bin\Debug\net8.0\ScaleUP.Services.NBFCDTO.deps.json
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\bin\Debug\net8.0\ScaleUP.Services.NBFCDTO.dll
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\bin\Debug\net8.0\ScaleUP.Services.NBFCDTO.pdb
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\obj\Debug\net8.0\ScaleUP.Services.NBFCDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\obj\Debug\net8.0\ScaleUP.Services.NBFCDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\obj\Debug\net8.0\ScaleUP.Services.NBFCDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\obj\Debug\net8.0\ScaleUP.Services.NBFCDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\obj\Debug\net8.0\ScaleUP.Services.NBFCDTO.dll
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\obj\Debug\net8.0\refint\ScaleUP.Services.NBFCDTO.dll
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\obj\Debug\net8.0\ScaleUP.Services.NBFCDTO.pdb
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCDTO\obj\Debug\net8.0\ref\ScaleUP.Services.NBFCDTO.dll

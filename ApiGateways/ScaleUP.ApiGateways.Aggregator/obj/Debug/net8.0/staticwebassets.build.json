@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iu2TYM8qRiZSUxGoT+Fkw7BJiI6E6N/V01xoHa23r3Y=",
+  "Source": "ScaleUP.ApiGateways.Aggregator",
+  "BasePath": "_content/ScaleUP.ApiGateways.Aggregator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

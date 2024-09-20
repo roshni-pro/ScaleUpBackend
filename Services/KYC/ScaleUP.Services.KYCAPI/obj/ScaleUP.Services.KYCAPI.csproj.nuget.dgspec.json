@@ -1,0 +1,760 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCAPI\\ScaleUP.Services.KYCAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\EventBus\\ScaleUp.BuildingBlocks.EventBus\\ScaleUP.BuildingBlocks.EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\EventBus\\ScaleUp.BuildingBlocks.EventBus\\ScaleUP.BuildingBlocks.EventBus.csproj",
+        "projectName": "ScaleUP.BuildingBlocks.EventBus",
+        "projectPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\EventBus\\ScaleUp.BuildingBlocks.EventBus\\ScaleUP.BuildingBlocks.EventBus.csproj",
+        "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
+        "outputPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\EventBus\\ScaleUp.BuildingBlocks.EventBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\GRPC\\ScaleUP.BuildingBlocks.GRPC.Contracts\\ScaleUP.BuildingBlocks.GRPC.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\GRPC\\ScaleUP.BuildingBlocks.GRPC.Contracts\\ScaleUP.BuildingBlocks.GRPC.Contracts.csproj",
+        "projectName": "ScaleUP.BuildingBlocks.GRPC.Contracts",
+        "projectPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\GRPC\\ScaleUP.BuildingBlocks.GRPC.Contracts\\ScaleUP.BuildingBlocks.GRPC.Contracts.csproj",
+        "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
+        "outputPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\GRPC\\ScaleUP.BuildingBlocks.GRPC.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj": {
+                "projectPath": "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "protobuf-net.Grpc": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj",
+        "projectName": "ScaleUP.BuildingBlocks.Logging",
+        "projectPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj",
+        "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
+        "outputPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.59.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Nito.AsyncEx.Context": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Extensions": {
+              "target": "Package",
+              "version": "[1.0.0-beta.4, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.6.0-rc.1, )"
+            },
+            "OpenTelemetry.Instrumentation.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.0-beta.8, )"
+            },
+            "OpenTelemetry.Instrumentation.GrpcCore": {
+              "target": "Package",
+              "version": "[1.0.0-beta.5, )"
+            },
+            "OpenTelemetry.Instrumentation.GrpcNetClient": {
+              "target": "Package",
+              "version": "[1.6.0-beta.3, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.6.0-rc.1, )"
+            },
+            "OpenTelemetry.Instrumentation.MassTransit": {
+              "target": "Package",
+              "version": "[1.0.0-beta.3, )"
+            },
+            "OpenTelemetry.Instrumentation.SqlClient": {
+              "target": "Package",
+              "version": "[1.6.0-beta.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Serilog.Logfmt": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Serilog.Sinks.Grafana.Loki": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Serilog.Sinks.OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "serilog.enrichers.ExceptionData": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "serilog.enrichers.GlobalLogContext": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "serilog.enrichers.correlationId": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj",
+        "projectName": "ScaleUP.Global.Infrastructure",
+        "projectPath": "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
+        "outputPath": "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Collection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.19.0, )"
+            },
+            "Cnblogs.IdentityServer4.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "IdentityModel.AspNetCore.OAuth2Introspection": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "IdentityServer4.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            },
+            "Mediatr": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Aspnetcore.http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.sqlserver": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Nito.AsyncEx": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "OpenHtmlToPdf": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "OpenTelemetry.Exporter.Zipkin": {
+              "target": "Package",
+              "version": "[1.7.0-rc.1, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.7.0-rc.1, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.6.0-rc.1, )"
+            },
+            "OpenTelemetry.Instrumentation.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.0-beta.8, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.6.0-rc.1, )"
+            },
+            "OpenTelemetry.Instrumentation.SqlClient": {
+              "target": "Package",
+              "version": "[1.6.0-beta.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Net.Http.Formatting.Extension": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCAPI\\ScaleUP.Services.KYCAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCAPI\\ScaleUP.Services.KYCAPI.csproj",
+        "projectName": "ScaleUP.Services.KYCAPI",
+        "projectPath": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCAPI\\ScaleUP.Services.KYCAPI.csproj",
+        "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
+        "outputPath": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\EventBus\\ScaleUp.BuildingBlocks.EventBus\\ScaleUP.BuildingBlocks.EventBus.csproj": {
+                "projectPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\EventBus\\ScaleUp.BuildingBlocks.EventBus\\ScaleUP.BuildingBlocks.EventBus.csproj"
+              },
+              "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\GRPC\\ScaleUP.BuildingBlocks.GRPC.Contracts\\ScaleUP.BuildingBlocks.GRPC.Contracts.csproj": {
+                "projectPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\GRPC\\ScaleUP.BuildingBlocks.GRPC.Contracts\\ScaleUP.BuildingBlocks.GRPC.Contracts.csproj"
+              },
+              "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj": {
+                "projectPath": "C:\\ScaleupLatest\\trunk\\BuildingBlocks\\Logging\\ScaleUP.BuildingBlocks.Logging\\ScaleUP.BuildingBlocks.Logging.csproj"
+              },
+              "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj": {
+                "projectPath": "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj"
+              },
+              "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCDTO\\ScaleUP.Services.KYCDTO.csproj": {
+                "projectPath": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCDTO\\ScaleUP.Services.KYCDTO.csproj"
+              },
+              "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCModels\\ScaleUP.Services.KYCModels.csproj": {
+                "projectPath": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCModels\\ScaleUP.Services.KYCModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.System": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Nito.AsyncEx": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "protobuf-net.Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "serilog.Enrichers.correlationId": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "serilog.Enrichers.environment": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCDTO\\ScaleUP.Services.KYCDTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCDTO\\ScaleUP.Services.KYCDTO.csproj",
+        "projectName": "ScaleUP.Services.KYCDTO",
+        "projectPath": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCDTO\\ScaleUP.Services.KYCDTO.csproj",
+        "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
+        "outputPath": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCDTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCModels\\ScaleUP.Services.KYCModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCModels\\ScaleUP.Services.KYCModels.csproj",
+        "projectName": "ScaleUP.Services.KYCModels",
+        "projectPath": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCModels\\ScaleUP.Services.KYCModels.csproj",
+        "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
+        "outputPath": "C:\\ScaleupLatest\\trunk\\Services\\KYC\\ScaleUP.Services.KYCModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj": {
+                "projectPath": "C:\\ScaleupLatest\\trunk\\Global\\ScaleUP.Global.Infrastructure\\ScaleUP.Global.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

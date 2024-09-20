@@ -1,0 +1,92 @@
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+namespace ScaleUP.Services.LoanAccountAPI.Migrations
+{
+    /// <inheritdoc />
+    public partial class _09AugSP : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            var sp = @"
+
+
+	CREATE OR ALTER   procedure [dbo].[NBFCBusinessLoanAccountList]
+	--declare
+		@ProductType varchar(50)='BusinessLoan',
+		@Status int=-1,
+		@FromDate datetime='2024-02-01',
+		@ToDate datetime='2024-08-30',
+		@CityName  varchar(200)='',
+		@Keyword varchar(200)='',
+		@Skip int=0,
+		@Take int=100,
+		@AnchorId dbo.Intvalues readonly
+		--@Role varchar(50) = 'AYEFIN'
+		,@NbfcCompanyId bigint=133
+	As
+	Begin
+	
+	select 
+	la.LeadId as LeadId
+	,la.ProductId
+	,la.UserId as UserId
+	,la.CustomerName as CustomerName
+	,la.LeadCode
+	,la.MobileNo
+	,la.NBFCCompanyId as NBFCCompanyId
+	,la.AnchorCompanyId as AnchorCompanyId
+	,la.CreditScore
+	,la.Id as LoanAccountId 
+	,la.AnchorName
+	--,bl.loan_app_id as Loan_app_id
+	,d.LoanId as Loan_app_id
+	,bl.partner_loan_app_id as Partner_loan_app_id
+	,la.ShopName as business_name
+	,case when la.IsAccountActive=1 and la.IsBlock=0 then 'Active' 
+				  when la.IsAccountActive=0 and la.IsBlock=0 then 'InActive'
+				  when la.IsBlock=1 then 'Block'
+			end AccountStatus
+	--,bl.sanction_amount as loan_amount
+	,d.LoanAmount as loan_amount
+	,bl.bureau_outstanding_loan_amt  as OutStandingAmount
+	,la.CityName as CityName
+	,COUNT(*) over() as TotalCount
+	,cast(0 as bit) as IsBlock
+	,CAST(0 as bit) as Status
+	,d.Disbursementdate as DisbursalDate --must be disbursal date
+	,LA.NBFCIdentificationCode as NBFCname
+	from 
+	LoanAccounts LA with(nolock)
+	left join BusinessLoans bl with(nolock) on bl.LeadMasterId = LA.LeadId and la.IsActive=1 and la.IsDeleted=0 and bl.IsActive=1 and bl.IsDeleted=0
+	left join BusinessLoanDisbursementDetail d with(nolock) on d.LoanAccountId=la.Id
+	join @AnchorId a on a.IntValue = la.AnchorCompanyId
+	and ( LA.NBFCCompanyId = @NbfcCompanyId ) 
+	where 
+	((la.CustomerName like '%'+@Keyword+'%' or ISNULL(@Keyword,'')='')
+				  or (la.MobileNo like '%'+@Keyword+'%' or ISNULL(@Keyword,'')='')
+				  or (la.LeadCode like '%'+@Keyword+'%' or ISNULL(@Keyword,'')=''))
+				  and CAST(la.Created as date)>=@FromDate and CAST(la.Created as date)<=@ToDate
+				  and (la.CityName=@CityName or Isnull(@CityName,'')='')
+				  and (la.ProductType=@ProductType or Isnull(@ProductType,'')='')
+	order by la.LastModified 
+	OFFSET @Skip ROWS FETCH NEXT @Take ROWS ONLY
+	End
+
+GO
+
+
+
+";
+            migrationBuilder.Sql(sp);
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+
+        }
+    }
+}

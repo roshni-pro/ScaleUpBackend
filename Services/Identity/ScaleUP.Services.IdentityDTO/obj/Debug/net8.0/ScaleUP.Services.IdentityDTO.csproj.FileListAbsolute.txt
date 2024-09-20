@@ -1,0 +1,11 @@
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\bin\Debug\net8.0\ScaleUP.Services.IdentityDTO.deps.json
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\bin\Debug\net8.0\ScaleUP.Services.IdentityDTO.dll
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\bin\Debug\net8.0\ScaleUP.Services.IdentityDTO.pdb
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\obj\Debug\net8.0\ScaleUP.Services.IdentityDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\obj\Debug\net8.0\ScaleUP.Services.IdentityDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\obj\Debug\net8.0\ScaleUP.Services.IdentityDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\obj\Debug\net8.0\ScaleUP.Services.IdentityDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\obj\Debug\net8.0\ScaleUP.Services.IdentityDTO.dll
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\obj\Debug\net8.0\refint\ScaleUP.Services.IdentityDTO.dll
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\obj\Debug\net8.0\ScaleUP.Services.IdentityDTO.pdb
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityDTO\obj\Debug\net8.0\ref\ScaleUP.Services.IdentityDTO.dll

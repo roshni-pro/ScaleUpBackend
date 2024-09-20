@@ -1,0 +1,11 @@
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\bin\Debug\net8.0\ScaleUP.Services.LedgerDTO.deps.json
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\bin\Debug\net8.0\ScaleUP.Services.LedgerDTO.dll
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\bin\Debug\net8.0\ScaleUP.Services.LedgerDTO.pdb
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\obj\Debug\net8.0\ScaleUP.Services.LedgerDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\obj\Debug\net8.0\ScaleUP.Services.LedgerDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\obj\Debug\net8.0\ScaleUP.Services.LedgerDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\obj\Debug\net8.0\ScaleUP.Services.LedgerDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\obj\Debug\net8.0\ScaleUP.Services.LedgerDTO.dll
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\obj\Debug\net8.0\refint\ScaleUP.Services.LedgerDTO.dll
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\obj\Debug\net8.0\ScaleUP.Services.LedgerDTO.pdb
+C:\ScaleupLatest\trunk\Services\Ledger\ScaleUP.Services.LedgerDTO\obj\Debug\net8.0\ref\ScaleUP.Services.LedgerDTO.dll

@@ -1,0 +1,11 @@
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\bin\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.deps.json
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\bin\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.dll
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\bin\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.pdb
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\obj\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\obj\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\obj\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\obj\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\obj\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.dll
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\obj\Debug\net8.0\refint\ScaleUP.Services.LoanAccountDTO.dll
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\obj\Debug\net8.0\ScaleUP.Services.LoanAccountDTO.pdb
+C:\ScaleupLatest\trunk\Services\LoanAccount\ScaleUP.Services.LoanAccountDTO\obj\Debug\net8.0\ref\ScaleUP.Services.LoanAccountDTO.dll

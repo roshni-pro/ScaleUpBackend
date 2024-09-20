@@ -1,0 +1,6 @@
+@ScaleUP.Services.CommunicationAPI_HostAddress = http://localhost:5043
+
+GET {{ScaleUP.Services.CommunicationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

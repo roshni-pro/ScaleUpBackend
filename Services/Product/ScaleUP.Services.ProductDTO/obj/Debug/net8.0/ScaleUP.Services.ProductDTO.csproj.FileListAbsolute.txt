@@ -1,0 +1,11 @@
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\bin\Debug\net8.0\ScaleUP.Services.ProductDTO.deps.json
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\bin\Debug\net8.0\ScaleUP.Services.ProductDTO.dll
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\bin\Debug\net8.0\ScaleUP.Services.ProductDTO.pdb
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\obj\Debug\net8.0\ScaleUP.Services.ProductDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\obj\Debug\net8.0\ScaleUP.Services.ProductDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\obj\Debug\net8.0\ScaleUP.Services.ProductDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\obj\Debug\net8.0\ScaleUP.Services.ProductDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\obj\Debug\net8.0\ScaleUP.Services.ProductDTO.dll
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\obj\Debug\net8.0\refint\ScaleUP.Services.ProductDTO.dll
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\obj\Debug\net8.0\ScaleUP.Services.ProductDTO.pdb
+C:\ScaleupLatest\trunk\Services\Product\ScaleUP.Services.ProductDTO\obj\Debug\net8.0\ref\ScaleUP.Services.ProductDTO.dll

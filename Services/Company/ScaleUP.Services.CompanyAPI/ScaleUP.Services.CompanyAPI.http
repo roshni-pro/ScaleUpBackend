@@ -1,0 +1,6 @@
+@ScaleUP.Services.CompanyAPI_HostAddress = http://localhost:5085
+
+GET {{ScaleUP.Services.CompanyAPI_HostAddress}}/company/
+Accept: application/json
+
+###

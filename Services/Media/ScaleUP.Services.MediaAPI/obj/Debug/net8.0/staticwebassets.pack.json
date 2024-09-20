@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ScaleupLatest\\trunk\\Services\\Media\\ScaleUP.Services.MediaAPI\\wwwroot\\Uploads\\ConvertedPDF\\0637affd-1e9c-4c0e-85f1-953736897c34.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\ConvertedPDF\\0637affd-1e9c-4c0e-85f1-953736897c34.pdf"
+    },
+    {
+      "Id": "C:\\ScaleupLatest\\trunk\\Services\\Media\\ScaleUP.Services.MediaAPI\\wwwroot\\Uploads\\ConvertedPDF\\098ffff4-141d-464f-8208-35c20c24b3cf.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\ConvertedPDF\\098ffff4-141d-464f-8208-35c20c24b3cf.pdf"
+    },
+    {
+      "Id": "C:\\ScaleupLatest\\trunk\\Services\\Media\\ScaleUP.Services.MediaAPI\\wwwroot\\Uploads\\ConvertedPDF\\2eb0a7da-5f8c-4691-9ccb-ab0a4cfaca4d.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\ConvertedPDF\\2eb0a7da-5f8c-4691-9ccb-ab0a4cfaca4d.pdf"
+    },
+    {
+      "Id": "C:\\ScaleupLatest\\trunk\\Services\\Media\\ScaleUP.Services.MediaAPI\\wwwroot\\Uploads\\ConvertedPDF\\901d7789-08f7-433f-9335-98242d10334d.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\ConvertedPDF\\901d7789-08f7-433f-9335-98242d10334d.pdf"
+    },
+    {
+      "Id": "C:\\ScaleupLatest\\trunk\\Services\\Media\\ScaleUP.Services.MediaAPI\\wwwroot\\Uploads\\ConvertedPDF\\a6c7690d-8163-4587-a0eb-bd93868437e7.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\ConvertedPDF\\a6c7690d-8163-4587-a0eb-bd93868437e7.pdf"
+    },
+    {
+      "Id": "C:\\ScaleupLatest\\trunk\\Services\\Media\\ScaleUP.Services.MediaAPI\\wwwroot\\Uploads\\ConvertedPDF\\e476115f-f3d2-425a-846f-3611e1b14115.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\ConvertedPDF\\e476115f-f3d2-425a-846f-3611e1b14115.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScaleUP.Services.MediaAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScaleUP.Services.MediaAPI.props",
+      "PackagePath": "build\\ScaleUP.Services.MediaAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScaleUP.Services.MediaAPI.props",
+      "PackagePath": "buildMultiTargeting\\ScaleUP.Services.MediaAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScaleUP.Services.MediaAPI.props",
+      "PackagePath": "buildTransitive\\ScaleUP.Services.MediaAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

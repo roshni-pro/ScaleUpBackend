@@ -1,0 +1,12 @@
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\bin\Debug\net8.0\ScaleUP.Services.MediaDTO.deps.json
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\bin\Debug\net8.0\ScaleUP.Services.MediaDTO.dll
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\bin\Debug\net8.0\ScaleUP.Services.MediaDTO.pdb
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\ScaleUP.Services.MediaDTO.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\ScaleUP.Services.MediaDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\ScaleUP.Services.MediaDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\ScaleUP.Services.MediaDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\ScaleUP.Services.MediaDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\ScaleUP.Services.MediaDTO.dll
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\refint\ScaleUP.Services.MediaDTO.dll
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\ScaleUP.Services.MediaDTO.pdb
+C:\ScaleupLatest\trunk\Services\Media\ScaleUP.Services.MediaDTO\obj\Debug\net8.0\ref\ScaleUP.Services.MediaDTO.dll

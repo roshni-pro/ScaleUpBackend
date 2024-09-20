@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FtF6Bb9pTGcZpBcBTfPcwT/DEY6lO/wUjTmpmX8rCpc=",
+  "Source": "ScaleUP.ApiGateways.OcelotGw",
+  "BasePath": "_content/ScaleUP.ApiGateways.OcelotGw",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

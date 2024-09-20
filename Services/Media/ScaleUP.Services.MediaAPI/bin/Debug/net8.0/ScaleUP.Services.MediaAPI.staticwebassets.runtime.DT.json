@@ -1,0 +1,77 @@
+{
+  "ContentRoots": [
+    "/src/Services/Media/ScaleUP.Services.MediaAPI/wwwroot/"
+  ],
+  "Root": {
+    "Children": {
+      "Uploads": {
+        "Children": {
+          "ConvertedPDF": {
+            "Children": {
+              "0637affd-1e9c-4c0e-85f1-953736897c34.pdf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "Uploads/ConvertedPDF/0637affd-1e9c-4c0e-85f1-953736897c34.pdf"
+                },
+                "Patterns": null
+              },
+              "098ffff4-141d-464f-8208-35c20c24b3cf.pdf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "Uploads/ConvertedPDF/098ffff4-141d-464f-8208-35c20c24b3cf.pdf"
+                },
+                "Patterns": null
+              },
+              "2eb0a7da-5f8c-4691-9ccb-ab0a4cfaca4d.pdf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "Uploads/ConvertedPDF/2eb0a7da-5f8c-4691-9ccb-ab0a4cfaca4d.pdf"
+                },
+                "Patterns": null
+              },
+              "901d7789-08f7-433f-9335-98242d10334d.pdf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "Uploads/ConvertedPDF/901d7789-08f7-433f-9335-98242d10334d.pdf"
+                },
+                "Patterns": null
+              },
+              "a6c7690d-8163-4587-a0eb-bd93868437e7.pdf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "Uploads/ConvertedPDF/a6c7690d-8163-4587-a0eb-bd93868437e7.pdf"
+                },
+                "Patterns": null
+              },
+              "e476115f-f3d2-425a-846f-3611e1b14115.pdf": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "Uploads/ConvertedPDF/e476115f-f3d2-425a-846f-3611e1b14115.pdf"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      }
+    },
+    "Asset": null,
+    "Patterns": [
+      {
+        "ContentRootIndex": 0,
+        "Pattern": "**",
+        "Depth": 0
+      }
+    ]
+  }
+}

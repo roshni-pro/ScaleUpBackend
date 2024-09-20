@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nCh3mqnhRptFBArPbFHNrrCUYGsDth50dbVIG1few6nKchU8wC2fnRh4/sI7AXo9Y59b2blZJmeGOvVFpWHpg==",
+  "success": true,
+  "projectFilePath": "C:\\ScaleupLatest\\trunk\\Services\\Location\\ScaleUP.Services.LocationDTO\\ScaleUP.Services.LocationDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

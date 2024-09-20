@@ -1,0 +1,12 @@
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\bin\Debug\net8.0\ScaleUP.Services.LeadDTO.deps.json
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\bin\Debug\net8.0\ScaleUP.Services.LeadDTO.dll
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\bin\Debug\net8.0\ScaleUP.Services.LeadDTO.pdb
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\ScaleUP.Services.LeadDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\ScaleUP.Services.LeadDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\ScaleUP.Services.LeadDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\ScaleUP.Services.LeadDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\ScaleUP.Services.LeadDTO.dll
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\refint\ScaleUP.Services.LeadDTO.dll
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\ScaleUP.Services.LeadDTO.pdb
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\ref\ScaleUP.Services.LeadDTO.dll
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadDTO\obj\Debug\net8.0\ScaleUP.Services.LeadDTO.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\bin\Debug\net8.0\ScaleUP.Services.IdentityModels.deps.json
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\bin\Debug\net8.0\ScaleUP.Services.IdentityModels.dll
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\bin\Debug\net8.0\ScaleUP.Services.IdentityModels.pdb
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.dll
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.pdb
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ScaleUP.Services.IdentityModels.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ScaleUP.Services.IdentityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ScaleUP.Services.IdentityModels.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ScaleUP.Services.IdentityModels.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ScaleUP.Services.IdentityModels.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ScaleUP.Services.IdentityModels.csproj.CopyComplete
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ScaleUP.Services.IdentityModels.dll
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\refint\ScaleUP.Services.IdentityModels.dll
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ScaleUP.Services.IdentityModels.pdb
+C:\ScaleupLatest\trunk\Services\Identity\ScaleUP.Services.IdentityModels\obj\Debug\net8.0\ref\ScaleUP.Services.IdentityModels.dll

@@ -1,0 +1,15 @@
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\bin\Debug\net8.0\ScaleUP.Services.KYCModels.deps.json
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\bin\Debug\net8.0\ScaleUP.Services.KYCModels.dll
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\bin\Debug\net8.0\ScaleUP.Services.KYCModels.pdb
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.dll
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.pdb
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ScaleUP.Services.KYCModels.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ScaleUP.Services.KYCModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ScaleUP.Services.KYCModels.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ScaleUP.Services.KYCModels.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ScaleUP.Services.KYCModels.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ScaleUP.Services.KYCModels.csproj.CopyComplete
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ScaleUP.Services.KYCModels.dll
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\refint\ScaleUP.Services.KYCModels.dll
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ScaleUP.Services.KYCModels.pdb
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCModels\obj\Debug\net8.0\ref\ScaleUP.Services.KYCModels.dll

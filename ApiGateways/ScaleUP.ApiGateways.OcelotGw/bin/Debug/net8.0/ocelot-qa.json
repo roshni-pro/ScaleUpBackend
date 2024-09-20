@@ -1,0 +1,393 @@
+{
+  //"GlobalConfiguration": {
+  //  "BaseUrl": "http://localhost:7000"
+  //},
+  "Routes": [
+    /* {
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 32776
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "IdentityApiKey",
+      //  "AllowedScopes": []
+      //}
+    }*/
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "company-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/company/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "company"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "product-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/product/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "product"
+      //,"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "location-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/location/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "location"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "services-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/aggregator/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "aggregator"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "lead-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/lead/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "lead"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "kyc-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/kyc/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "kyc"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "communication-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/communication/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "communication"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/identity/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds":1 // This is for caching
+      },
+      "SwaggerKey": "identity"
+      //,"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "media-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/media/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "media"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "nbfc-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/nbfc/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1 // This is for caching
+      },
+      "SwaggerKey": "nbfc"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "loan-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/loanaccount/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "loan"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "ledger-qa.scaleupfin.com",
+          "Port": 443
+        }
+      ],
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "https",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/services/ledger/v1/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET", "DELETE" ],
+      "SwaggerKey": "ledger"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //}
+    }
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "company",
+      "Config": [
+        {
+          "Name": "company API",
+          "Version": "v1",
+          "Url": "https://company-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "product",
+      "Config": [
+        {
+          "Name": "product API",
+          "Version": "v1",
+          "Url": "https://product-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "location",
+      "Config": [
+        {
+          "Name": "location API",
+          "Version": "v1",
+          "Url": "https://location-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "aggregator",
+      "Config": [
+        {
+          "Name": "aggregator API",
+          "Version": "v1",
+          "Url": "https://services-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "lead",
+      "Config": [
+        {
+          "Name": "lead API",
+          "Version": "v1",
+          "Url": "https://lead-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "kyc",
+      "Config": [
+        {
+          "Name": "kyc API",
+          "Version": "v1",
+          "Url": "https://kyc-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "communication",
+      "Config": [
+        {
+          "Name": "communication API",
+          "Version": "v1",
+          "Url": "https://communication-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "identity",
+      "Config": [
+        {
+          "Name": "identity API",
+          "Version": "v1",
+          "Url": "https://identity-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "media",
+      "Config": [
+        {
+          "Name": "media API",
+          "Version": "v1",
+          "Url": "https://media-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "nbfc",
+      "Config": [
+        {
+          "Name": "nbfc API",
+          "Version": "v1",
+          "Url": "https://nbfc-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "loan",
+      "Config": [
+        {
+          "Name": "loan API",
+          "Version": "v1",
+          "Url": "https://loan-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "ledger",
+      "Config": [
+        {
+          "Name": "ledger API",
+          "Version": "v1",
+          "Url": "https://ledger-qa.scaleupfin.com/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ]
+}

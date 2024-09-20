@@ -1,0 +1,6 @@
+@ScaleUP.Services.LoanAccountAPI_HostAddress = http://localhost:5017
+
+GET {{ScaleUP.Services.LoanAccountAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

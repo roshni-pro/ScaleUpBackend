@@ -1,0 +1,106 @@
+{
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5004"
+    },
+    "https": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_HTTP_PORTS": "5004",
+        "ASPNETCORE_HTTPS_PORTS": "7004",
+        "RabbitMQUrl": "rabbitmq",
+        "RabbitPort": "5672",
+        "RabbitUser": "admin",
+        "RabbitPwd": "admin",
+        "RabbitVHost": "/",
+        "EnvironmentName": "Development",
+        "ElasticUrl": "http://137.59.52.22:9200",
+        "ElasticUser": "elastic",
+        "ElasticPwd": "Sk@dm!n2021",
+        "ElasticAuthHeader": "Basic ZWxhc3RpYzpTa0BkbSFuMjAyMQ==",
+        "IdentityUrl": "https://localhost:7008",
+        "CollectorUrl": "http://localhost:4317",
+        "ProductUrl": "https://localhost:7001",
+        "CompanyUrl": "https://localhost:7002",
+        "LocationUrl": "https://localhost:7003",
+        "LeadUrl": "https://localhost:7005",
+        "KYCUrl": "https://localhost:7006",
+        "CommunicationUrl": "https://localhost:7007",
+        "MediaUrl": "https://localhost:7009",
+        "NBFCUrl": "https://localhost:7010",
+        "LoanAccountUrl": "https://localhost:7011",
+        "LedgerUrl": "https://localhost:7012",
+        "JaegerUrl": "http://172.30.192.1:4317",
+        "DbContext": "Server=103.73.191.114;Database=ScaleUP_Aggregator_QA;User ID=scaleuptest;password=sa@sk@123;MultipleActiveResultSets=true;TrustServerCertificate=True;",
+        "LokiURL": "http://172.30.192.1:3100"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7004;http://localhost:5004"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_HTTPS_PORTS": "7004",
+        "ASPNETCORE_HTTP_PORTS": "5004"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:5004",
+      "sslPort": 7004
+    }
+  },
+  "environmentVariables": {
+    "ASPNETCORE_ENVIRONMENT": "Development",
+    "ASPNETCORE_HTTP_PORTS": 5004,
+    "ASPNETCORE_HTTPS_PORTS": 7004,
+    "RabbitMQUrl": "rabbitmq",
+    "RabbitPort": 5672,
+    "RabbitUser": "admin",
+    "RabbitPwd": "admin",
+    "RabbitVHost": "/",
+    "EnvironmentName": "Development",
+    "ElasticUrl": "http://137.59.52.22:9200",
+    "ElasticUser": "elastic",
+    "ElasticPwd": "Sk@dm!n2021",
+    "ElasticAuthHeader": "Basic ZWxhc3RpYzpTa0BkbSFuMjAyMQ==",
+    "IdentityUrl": "https://localhost:7008",
+    "CollectorUrl": "http://localhost:4317",
+    "ProductUrl": "https://localhost:7001",
+    "CompanyUrl": "https://localhost:7002",
+    "LocationUrl": "https://localhost:7003",
+    "LeadUrl": "https://localhost:7005",
+    "KYCUrl": "https://localhost:7006",
+    "NBFCUrl": "https://localhost:7010",
+    "CommunicationUrl": "https://localhost:7007",
+    "MediaUrl": "https://localhost:7009",
+    "LoanAccountUrl": "https://localhost:7011",
+    "LedgerUrl": "https://localhost:7012"
+  }
+}

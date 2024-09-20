@@ -1,0 +1,12 @@
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\bin\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.deps.json
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\bin\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.dll
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\bin\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.pdb
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.dll
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\refint\ScaleUP.BuildingBlocks.EventBus.dll
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\ScaleUP.BuildingBlocks.EventBus.pdb
+C:\ScaleupLatest\trunk\BuildingBlocks\EventBus\ScaleUp.BuildingBlocks.EventBus\obj\Debug\net8.0\ref\ScaleUP.BuildingBlocks.EventBus.dll

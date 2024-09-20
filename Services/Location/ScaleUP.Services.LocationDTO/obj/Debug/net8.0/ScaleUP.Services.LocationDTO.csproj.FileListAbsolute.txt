@@ -1,0 +1,11 @@
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\bin\Debug\net8.0\ScaleUP.Services.LocationDTO.deps.json
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\bin\Debug\net8.0\ScaleUP.Services.LocationDTO.dll
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\bin\Debug\net8.0\ScaleUP.Services.LocationDTO.pdb
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\obj\Debug\net8.0\ScaleUP.Services.LocationDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\obj\Debug\net8.0\ScaleUP.Services.LocationDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\obj\Debug\net8.0\ScaleUP.Services.LocationDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\obj\Debug\net8.0\ScaleUP.Services.LocationDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\obj\Debug\net8.0\ScaleUP.Services.LocationDTO.dll
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\obj\Debug\net8.0\refint\ScaleUP.Services.LocationDTO.dll
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\obj\Debug\net8.0\ScaleUP.Services.LocationDTO.pdb
+C:\ScaleupLatest\trunk\Services\Location\ScaleUP.Services.LocationDTO\obj\Debug\net8.0\ref\ScaleUP.Services.LocationDTO.dll

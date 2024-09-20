@@ -1,0 +1,12 @@
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\bin\Debug\net8.0\ScaleUP.Services.KYCDTO.deps.json
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\bin\Debug\net8.0\ScaleUP.Services.KYCDTO.dll
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\bin\Debug\net8.0\ScaleUP.Services.KYCDTO.pdb
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\ScaleUP.Services.KYCDTO.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\ScaleUP.Services.KYCDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\ScaleUP.Services.KYCDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\ScaleUP.Services.KYCDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\ScaleUP.Services.KYCDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\ScaleUP.Services.KYCDTO.dll
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\refint\ScaleUP.Services.KYCDTO.dll
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\ScaleUP.Services.KYCDTO.pdb
+C:\ScaleupLatest\trunk\Services\KYC\ScaleUP.Services.KYCDTO\obj\Debug\net8.0\ref\ScaleUP.Services.KYCDTO.dll

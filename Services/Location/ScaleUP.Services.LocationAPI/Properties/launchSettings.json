@@ -1,0 +1,71 @@
+{
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5003"
+    },
+    "https": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:7003/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_HTTP_PORTS": "5003",
+        "ASPNETCORE_HTTPS_PORTS": "7003",
+        "RabbitMQUrl": "rabbitmq",
+        "RabbitPort": "5672",
+        "RabbitUser": "admin",
+        "RabbitPwd": "admin",
+        "RabbitVHost": "/",
+        "EnvironmentName": "Development",
+        "ElasticUrl": "http://137.59.52.22:9200",
+        "ElasticUser": "elastic",
+        "ElasticPwd": "Sk@dm!n2021",
+        "ElasticAuthHeader": "Basic ZWxhc3RpYzpTa0BkbSFuMjAyMQ==",
+        "IdentityUrl": "https://localhost:7008",
+        "SMSUrl": "http://api.msg91.com/api/sendhttp.php?DLT_TE_ID=[[DLTId]]&amp;country=91&amp;sender=SHOPKR&amp;route=4&amp;authkey=245847A93RRLxsuJ463048194P1&amp;message=[[Message]]&amp;mobiles=[[Mobile]]",
+        "MasterEmail": "sk.erp@shopkirana.com",
+        "MasterPassword": "Shop@306512#@",
+        "DbContext": "Server=192.168.1.50;Database=ScaleUP_Location_Dev;User ID=SKDev;password=Sk@123;MultipleActiveResultSets=true;TrustServerCertificate=True;",
+        "JaegerUrl": "http://10.6.10.171:4317",
+        "LokiURL": "http://10.6.10.171:3100"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7003;http://localhost:5003"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_HTTPS_PORTS": "7003",
+        "ASPNETCORE_HTTP_PORTS": "5003"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:5003",
+      "sslPort": 7003
+    }
+  }
+}

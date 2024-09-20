@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E2teFr1pgumfWqxpB2Et6Gwyicz54Twb9y0CXXi4cHqWX0bDtky3v+b+xY8N8g8+p4hff7EY8VM38oFWSReUkg==",
+  "success": true,
+  "projectFilePath": "C:\\ScaleupLatest\\trunk\\Services\\Communication\\ScaleUp.Services.CommunicationDTO\\ScaleUP.Services.CommunicationDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

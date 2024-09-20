@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ScaleUP.ApiGateways.OcelotGw.props" />
+</Project>

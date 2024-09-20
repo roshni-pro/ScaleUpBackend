@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ScaleUP.Services.CompanyAPI.props" />
+</Project>

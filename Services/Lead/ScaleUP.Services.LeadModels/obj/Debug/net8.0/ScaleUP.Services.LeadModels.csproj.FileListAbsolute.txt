@@ -1,0 +1,15 @@
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\bin\Debug\net8.0\ScaleUP.Services.LeadModels.deps.json
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\bin\Debug\net8.0\ScaleUP.Services.LeadModels.dll
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\bin\Debug\net8.0\ScaleUP.Services.LeadModels.pdb
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.dll
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.pdb
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ScaleUP.Services.LeadModels.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ScaleUP.Services.LeadModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ScaleUP.Services.LeadModels.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ScaleUP.Services.LeadModels.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ScaleUP.Services.LeadModels.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ScaleUP.Services.LeadModels.csproj.CopyComplete
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ScaleUP.Services.LeadModels.dll
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\refint\ScaleUP.Services.LeadModels.dll
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ScaleUP.Services.LeadModels.pdb
+C:\ScaleupLatest\trunk\Services\Lead\ScaleUP.Services.LeadModels\obj\Debug\net8.0\ref\ScaleUP.Services.LeadModels.dll

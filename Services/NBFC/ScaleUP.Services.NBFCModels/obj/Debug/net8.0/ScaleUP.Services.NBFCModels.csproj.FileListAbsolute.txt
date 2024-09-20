@@ -1,0 +1,15 @@
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\bin\Debug\net8.0\ScaleUP.Services.NBFCModels.deps.json
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\bin\Debug\net8.0\ScaleUP.Services.NBFCModels.dll
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\bin\Debug\net8.0\ScaleUP.Services.NBFCModels.pdb
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.dll
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\bin\Debug\net8.0\ScaleUP.Global.Infrastructure.pdb
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ScaleUP.Services.NBFCModels.csproj.AssemblyReference.cache
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ScaleUP.Services.NBFCModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ScaleUP.Services.NBFCModels.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ScaleUP.Services.NBFCModels.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ScaleUP.Services.NBFCModels.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ScaleUP.Services.NBFCModels.csproj.CopyComplete
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ScaleUP.Services.NBFCModels.dll
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\refint\ScaleUP.Services.NBFCModels.dll
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ScaleUP.Services.NBFCModels.pdb
+C:\ScaleupLatest\trunk\Services\NBFC\ScaleUP.Services.NBFCModels\obj\Debug\net8.0\ref\ScaleUP.Services.NBFCModels.dll

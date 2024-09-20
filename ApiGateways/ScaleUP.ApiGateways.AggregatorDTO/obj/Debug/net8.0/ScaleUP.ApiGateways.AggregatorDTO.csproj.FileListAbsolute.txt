@@ -1,0 +1,11 @@
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\bin\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.deps.json
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\bin\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.dll
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\bin\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.pdb
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\obj\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\obj\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.AssemblyInfoInputs.cache
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\obj\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.AssemblyInfo.cs
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\obj\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.csproj.CoreCompileInputs.cache
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\obj\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.dll
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\obj\Debug\net8.0\refint\ScaleUP.ApiGateways.AggregatorDTO.dll
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\obj\Debug\net8.0\ScaleUP.ApiGateways.AggregatorDTO.pdb
+C:\ScaleupLatest\trunk\ApiGateways\ScaleUP.ApiGateways.AggregatorDTO\obj\Debug\net8.0\ref\ScaleUP.ApiGateways.AggregatorDTO.dll
